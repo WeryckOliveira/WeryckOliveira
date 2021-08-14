@@ -28,4 +28,5 @@
 
 <br>
 <br>
+  
   ![Snake animation](https://github.com/WeryckOliveira/WeryckOliveira/blob/output/github-contribution-grid-snake.svg)
