@@ -2,16 +2,16 @@ name: Generate Snake
 
 # Controls when the action will run.
 on:
-  schedule:
+ # CHANGE schedule:
       # every 12 hours
-    - cron: "0 */12 * * *"
+   # CHANGE - cron: "0 */12 * * *"
 
   # This command allows us to run the Action automatically from the Actions tab.
-  workflow_dispatch:
+ # CHANGE workflow_dispatch:
   
   # Also run on every push on the master branch
-  push:
-    branches:
+ # CHANGE push:
+   # CHANGE branches:
     - main
 
 # The sequence of runs in this workflow:
