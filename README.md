@@ -1,5 +1,5 @@
 <h2>Hi 👋, Weryck here</h2>
-<p>Front end developer who loves UX|UI design, always improving and learning new things!!!</p>
+<p>💻I've been coding for over 4 years and have a solid knowledge of HTML5, CSS3, Javascript, React and Jquery. With this knowledge, I have successfully develop websites, apps and using my strong UX UI skills!</p>
 
 <br>
 
